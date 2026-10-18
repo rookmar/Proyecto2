@@ -1,0 +1,5 @@
+# Angular build output
+dist/
+
+# Angular cache
+.angular/cache/
